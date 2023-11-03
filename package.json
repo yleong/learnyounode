@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bl": "^4.1.0",
+    "learnyounode": "^4.2.2",
+    "strftime": "^0.10.2",
+    "through2-map": "^3.0.0"
+  }
+}
